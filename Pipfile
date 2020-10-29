@@ -6,8 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-streamlit = "*"
 pylint = "*"
+streamlit = "<0.68"
 
 [requires]
 python_version = "3.8"
