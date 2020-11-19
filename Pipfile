@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 pylint = "*"
-streamlit = "<0.68"
+streamlit = "*"
 
 [requires]
 python_version = "3.8"
